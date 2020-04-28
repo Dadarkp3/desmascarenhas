@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://brave-noether-ada6a3.netlify.app/',
   pathPrefix: '/',
   title: 'Desmascarenhas',
   subtitle: 'Descomplicando o frontend.',
