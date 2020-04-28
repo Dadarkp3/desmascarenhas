@@ -3,46 +3,46 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
-  copyright: '© All rights reserved.',
+  title: 'Desmascarenhas',
+  subtitle: 'Descomplicando o frontend.',
+  copyright: '© Todos os direitos reservados.',
   disqusShortname: '',
   postsPerPage: 4,
   googleAnalyticsId: 'UA-73379983-2',
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
+      label: 'Artigos',
       path: '/'
     },
     {
-      label: 'About me',
+      label: 'Sobre mim',
       path: '/pages/about'
     },
     {
-      label: 'Contact me',
+      label: 'Contatos',
       path: '/pages/contacts'
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Daiane Mascarenhas | @Dadarkp3',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Dev FrontEnd React, React Native, apaixonada por computação e empada vegana.',
     contacts: {
-      email: '',
-      facebook: '#',
+      email: 'adm.daianesilva@gmail.com',
+      facebook: 'dadarkp3',
       telegram: '#',
-      twitter: '#',
-      github: '#',
+      twitter: 'Dadarkp3',
+      github: 'Dadarkp3',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
+      linkedin: 'daiane-mascarenhas-silva-40494714b/',
+      instagram: 'dadarkp3/',
       line: '',
       gitlab: '',
       weibo: '',
-      codepen: '',
-      youtube: '',
+      codepen: 'Dadarkp3',
+      youtube: 'dadarkp3',
       soundcloud: '',
     }
   }
