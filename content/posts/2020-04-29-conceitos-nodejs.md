@@ -5,7 +5,7 @@ slug: conceitos-node-js
 draft: false
 date: 2020-04-29T00:23:05.369Z
 description: Iniciando os estudos do NodeJS
-category: 'GoStack, Backend com NodeJS'
+category: Backend com NodeJS
 tags:
   - nodejs
   - gostack
