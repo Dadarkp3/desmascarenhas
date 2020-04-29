@@ -2,7 +2,7 @@
 template: post
 title: Conceitos NodeJS
 slug: conceitos-node-js
-draft: true
+draft: false
 date: 2020-04-29T00:23:05.369Z
 description: Iniciando os estudos do NodeJS
 category: 'GoStack, Backend com NodeJS'
